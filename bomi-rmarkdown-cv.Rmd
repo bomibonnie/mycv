@@ -1,0 +1,116 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:/Users/bomim/Documents/myrepo/CV/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Bomi Lee
+
+address: "367 Schaeffer Hall · Iowa City · IA 52242"
+fontawesome: yes
+email: bomi-lee-1@uiowa.edu
+github: bomibonnie
+twitter: bomibonnielee
+#phone: "+353 1 408 4800"
+#
+#web: guinness.com
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Iowa*, Ph.D. Expected, Political Science \hfill 2016 -  
+
+*Seoul National University, South Korea*, M.A., International Relations \hfill 2013
+
+*Seoul National University, South Korea*, B.A., Political Science \hfill 2011
+
+
+# Additional Education
+
+*ICPSR Summer Program*  \hfill Summer 2017
+
+Rational Choice Theories of Politics and Society
+
+Game Theory 1: Introduction
+
+
+*ISRC Workshops* 
+
+Python Basics
+
+
+*UI3/ISRC Data Science Institute* \hfill Winter 2016
+
+Introduction to R
+
+Network Analysis Using R
+
+
+# Research Interests
+
+## International Relations
+
+International Conflict, International Rivalries, Diversionary Theory
+
+## Political Methodology
+
+Statistical Methods, Network Analysis, Time Series Analysis
+
+
+# Research Experiences
+
+## Project Haystack
+
+Caroline Tolbert, *University of Iowa* \hfill September 2018 - 
+
+## Issue Correlates of War Project
+
+Sara Mitchell, *University of Iowa* \hfill July 2017
+
+## East Asian International Relations Theory Project
+
+Chaesung Chun, *Seoul National University* \hfill September 2012 - August 2015
+
+
+# Teaching Experiences
+
+## Teaching Assistant, University of Iowa
+
+Introduction to International Relations \hfill Fall 2016, Fall 2017, Spring 2018, Summer 2018
+
+Introduction to American Politics \hfill Spring 2017
+
+## Teaching Assistant, Seoul National University
+
+Introduction to International Relations \hfill Fall 2011
+
+
+# Grants and Awards
+
+## University of Iowa
+
+Best Course Paper Award ($500), Department of Political Science (2018)
+
+Conference Travel Grant ($550), Department of Political Science (2018)
+
+Conference Travel Grant ($600), Department of Political Science (2017)
+
+Summer Training Grant ($3,300), Department of Political Science (2017)
+
+
+# Conference Presentations
+
+International Studies Association Midwest Annual Conference (2017, 2018)
+
+Midwest Political Science Association Annual Meeting (2018)
